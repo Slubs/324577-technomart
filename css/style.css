@@ -1,0 +1,44 @@
+body {
+  margin:0;
+  padding:0;
+  min-width:960px;
+  font-size:13px;
+  font-family:"PT Sans","Arial",sans-serif;
+  background:#fff;
+  color:#000;
+  line-height:24px;
+  font-weight:400;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+.header-top{
+  background-color: #33445a;
+}
+.main-logo{
+  display: inline-block;
+}
+.main-logo a{
+    text-decoration: none;
+    color: #fff;
+}
+.search-form{
+  display: inline-block;
+}
+.bookmarks-link .cart-link .checkout-link{
+  display: inline-block;
+  color: #fff;
+}
+.main-info{
+  width: 208px;
+  height: 60px;
+}
+.main-info h1{
+  font-style:italic;
+  font-size: 15px;
+  color:#fd696c;
+  text-align: left;
+  font-weight:normal;
+  font-family:"Cuprum",sans-serif;
+}
